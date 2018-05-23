@@ -1,0 +1,8 @@
+{% extends "personal/header.html" %}
+{% block content %}
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+{% include 'personal/includes/query.html' %}
+{% include 'personal/includes/table.html' %}
+
+{% endblock %}

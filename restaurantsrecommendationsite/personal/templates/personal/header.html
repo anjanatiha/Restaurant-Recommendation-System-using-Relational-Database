@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Anjana Tiha</title>
+	<meta charset="utf-8" />
+	{% load staticfiles %}
+	<link rel="stylesheet" href="{% static 'personal/css/bootstrap.min.css' %}" type = "text/css"/>
+	<meta name="viewport" content = "width=device-width, initial-scale=1.0">
+	
+	<style type="text/css">
+		html,
+		body {
+		  height:100%
+		}
+	</style>
+</head>
+
+<body class="body" style="background-color:#74AFAD">
+	<div class="container-fluid" style="min-height:95%; ">
+		<div class="row">
+			  <div class="col-md-12">
+				  <br>
+				  <center>
+					<h3>Restaurant Recommendation</h3>
+				  </center>
+			  </div>
+		</div><hr>
+	
+		<div class="row">
+			<div class="col-md-12">
+					<br><br>
+					{% block content %}
+					{% endblock %}	
+			</div> 
+				<div class="col-md-2">
+			</div> 
+		</div> 
+	</div>
+	<footer>
+		<div class="container-fluid" style='margin-left:15px'>
+			<p><a href="#" target="blank">Contact</a> | <a href="#" target="blank">LinkedIn</a> | <a href="#" target="blank">Twitter</a> | <a href="#" target="blank">Google+</a></p>
+		</div>
+	</footer>	
+	
+</body>
+
+</html>

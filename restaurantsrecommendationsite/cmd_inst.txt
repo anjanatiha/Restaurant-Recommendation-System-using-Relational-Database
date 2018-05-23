@@ -1,0 +1,23 @@
+C:\Users\Anjana\Anaconda3\python manage.py runserver
+
+C:\Python34\Scripts\python manage.py runserver
+
+http://127.0.0.1:8000/
+
+
+C:\Users\Anjana\Anaconda3\python manage.py makemigrations restaurantsrecommendationsite
+
+C:\Users\Anjana\Anaconda3\python manage.py migrate
+
+username: anjana
+email: atiha@memphis.edu
+pass: Aa123456
+
+
+my sql:
+username: root
+pass: 123456
+
+
+django-admin startproject restaurantsrecommendationsite
+C:\Users\Anjana\Anaconda3\python manage.py startapp restaurantsrecommendationapp

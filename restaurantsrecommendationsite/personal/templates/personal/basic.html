@@ -1,0 +1,15 @@
+{% extends "personal/header.html" %}
+<div class="container-fluid" style="min-height:95%; ">
+	<div class="col-md-4">
+	</div>
+	<div class="col-md-8">
+		<div align="center">
+			{% block content %}
+				{% for c in search_string %}
+					<p>{{c}}</p>
+				{% endfor %}
+			{% endblock %}
+		</div>
+	</div>
+</div>
+
