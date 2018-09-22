@@ -1,4 +1,16 @@
-## Restaurant Recommendation System Using Relational Database 
-### [Python, MySQL, Django]
--	Implemented restaurant recommendation system based on user (eg. location, cuisine preference, rating) and restaurant (location, heterogenous review criteria) information.
--	Included features to derive review effectiveness and user trustworthiness from available data. 
+# Restaurant Recommendation System Using Relational Database
+
+#### Technology : Python, MySQL, Django
+
+#### Duration   : Oct - Dec 17
+
+### Description
+1. Implemented restaurant recommendation system based on user (eg. location, cuisine preference, rating) and restaurant (location, heterogenous review criteria) information.
+2. Included features to derive review effectiveness and user trustworthiness from available data. 
+
+
+#### Tools Requirement: Anaconda, Python 
+
+Current Version  : v1.0.0.0
+
+Last Update      : 12.01.2017
