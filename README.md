@@ -12,6 +12,7 @@
 <kbd>
 <img src=https://github.com/anjanatiha/Restaurant-Recommendation-System/blob/master/restaurantsrecommendationsite/Report/images/er.png>
 </kbd>
+
 #### Relational Table:
 <kbd>
 <img src=https://github.com/anjanatiha/Restaurant-Recommendation-System/blob/master/restaurantsrecommendationsite/Report/images/rt.png>
