@@ -6,8 +6,9 @@
 
 
 ### Description
-1. Implemented restaurant recommendation system based on user (eg. location, cuisine preference, rating) and restaurant (location, heterogenous review criteria) information.
-2. Included features to derive review effectiveness and user trustworthiness from available data. 
+1. Implemented restaurant recommendation system based on relational database.
+2. Used user (eg. location, cuisine preference, rating) and restaurant (location, heterogeneous review criteria) information for generating recommendation.
+3. Derived user trustworthiness based on review effectiveness.
 
 #### E-R Diagram: 
 <kbd>
@@ -23,7 +24,7 @@
 ##### Tools/IDE   : Anaconda
 ##### Libraries   : 
 
-##### Duration    : Oct - Dec 17
+##### Duration    : Octber - December 2017
 
 Current Version  : v1.0.0.0
 
